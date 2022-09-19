@@ -4,7 +4,6 @@ void  main()
 {
     int respuesta = 0;
     
-    printf("Programa hecho por GRANADOS ROVIRA JOSE PABLO, 319288162, 671, 653 \n");
     printf("Debe elegir un número y luego presionar la tecla ENTER: \n");
     printf("1.- Tiene 60 o más años de edad.\n");
     printf("2.- Es personal médico que atiende COVID-19.\n");
